@@ -1,0 +1,6 @@
+host_list_file=/opt/dyndns/config/hosts.list
+key_file=/opt/dyndns/config/Kdyn.example.com.+157+02925.key
+dns_servers=ns1.example.com
+from_email=webmaster@example.com
+ttl=3600
+
